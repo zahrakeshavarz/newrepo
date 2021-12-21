@@ -1,3 +1,3 @@
-#FIRST REPO
+#FIRST_REPO
 
 HI!
